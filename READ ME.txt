@@ -1,0 +1,28 @@
+# PID Controller Simulation
+
+This project simulates a first-order system with P, PI, and PID controllers in MATLAB.
+The code was created with guidance from ChatGPT.
+
+## Features
+- Simulate step response of a system with P, PI, and PID controllers
+- Compare overshoot, rise time, and settling time
+- Plot responses and save figures in `plots/` folder
+
+## Tools Used
+- MATLAB
+
+## How to Run
+1. Open `pid_simulation.m` in MATLAB
+2. Run the script
+3. Check the `plots/` folder for the saved plot
+
+## What I Learned
+- Basics of PID control
+- Step response simulation in MATLAB
+- Plotting and comparing control strategies
+
+## Date Completed
+- January 7, 2026
+
+## Acknowledgements
+- Project code was developed with guidance from ChatGPT
